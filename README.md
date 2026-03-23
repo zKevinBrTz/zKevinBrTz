@@ -46,4 +46,17 @@ Estou em constante evolução técnica, priorizando atualmente:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/14d6740b0bbbba1ec93037fdb4ab308283e15017f774e9dbaf21fa5f81a1a5f7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4361696f7348656e72697175652673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="zKevinBrTz GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zKevinBrTz&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zKevinBrTz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKevinBrTz&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+## 📫 Vamos Conversar?
+<div align="left">
+  <a href="mailto:kevinmineybroetto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kevin-miney-tan-broetto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+---
+*“Construindo o amanhã com código limpo e pensamento estratégico hoje.”*
