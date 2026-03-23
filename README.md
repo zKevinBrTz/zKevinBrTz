@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá, eu sou o Kevin Tan! 👋
 
-<!--
-**zKevinBrTz/zKevinBrTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Backend & Systems Automation
+💻 Desenvolvendo soluções escaláveis com foco em performance e segurança.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Stack
+
+### 🛠️ Linguagens e Frameworks
+<div align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+</div>
+
+### 🗄️ Database & DevOps
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" target="_blank">
+</div>
+
+---
+
+## 📂 Projetos & Experiência Técnica
+
+* **Desenvolvimento de APIs RESTful:** Construção de endpoints seguros utilizando .NET e integração com bancos de dados relacionais.
+* **Automação de Processos (Scripting):** Redução de tarefas manuais através de scripts em Python e PowerShell, otimizando o fluxo de trabalho de sistemas.
+* **Arquitetura de Sistemas:** Experiência prática na transição de sistemas legados para estruturas modernas e conteinerizadas (Docker).
+
+---
+
+## 📈 Foco em Tendências
+Estou em constante evolução técnica, priorizando atualmente:
+* **Microsserviços:** Implementação de arquiteturas distribuídas e resilientes.
+* **DevSecOps:** Integração de práticas de segurança no pipeline de desenvolvimento.
+* **Cloud Native:** Desenvolvimento focado em escalabilidade e serviços gerenciados em nuvem.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="
